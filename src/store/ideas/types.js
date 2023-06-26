@@ -1,0 +1,1 @@
+export const ADD__RANDOM = 'ADD__RANDOM'

@@ -1,0 +1,1 @@
+export const selectRandom = state => state.events

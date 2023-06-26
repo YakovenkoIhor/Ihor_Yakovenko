@@ -1,0 +1,1 @@
+export const ADD_CARD_IN_MY_LIST = 'ADD_CARD_IN_MY_LIST'
